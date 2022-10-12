@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 it is  a text file called index
+=======
+it a file called index
+my name is athar parwez
+>>>>>>> dashboard
 
