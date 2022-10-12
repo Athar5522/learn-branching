@@ -1,2 +1,2 @@
-it a file called index
+it is  a text file called index
 
